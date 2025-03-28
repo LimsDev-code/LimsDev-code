@@ -6,7 +6,7 @@
 
 ## 🚀 Compétences principales
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c++,lua,html,css,js,vscode,github,python"/>
+  <img src="https://skillicons.dev/icons?i=cpp,lua,html,css,js,vscode,github,python"/>
 </div>
 
 ---
