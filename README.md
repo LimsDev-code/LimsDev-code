@@ -1,6 +1,6 @@
 # 💻 Bienvenue sur mon GitHub !
 
-<p align='left'>Hello c'est Lims je suis dévellopeur FiveM, C++, HTML, CSS, React and JS je fais des bon scripts performants.</p>
+<p align='left'>Hello c'est Lims je suis développeur FiveM, C++, HTML, CSS, React and JS je fais des bon scripts performants.</p>
 
 ---
 
